@@ -1,0 +1,298 @@
+For Client Number : 1
+Tue Mar 12 16:38:33 2024
+	Check-in initiated
+		Tue Mar 12 16:38:33 2024
+			Entered Name :Koustub
+		Tue Mar 12 16:38:33 2024
+			PAN Entered : Kulkarni
+		Tue Mar 12 16:38:33 2024
+			 Account Number Of Client is 855652667144
+		Tue Mar 12 16:38:33 2024
+			Wants to Open Account With 0Rupees as Balance.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+		Tue Mar 12 16:38:33 2024
+			Entered Wrong Choice.
+For Client Number : 1
+Tue Mar 12 16:40:41 2024
+	Check-in initiated
+		Tue Mar 12 16:40:41 2024
+			Entered Name :Koustubh
+		Tue Mar 12 16:40:41 2024
+			PAN Entered : LEJPK3648G
+		Tue Mar 12 16:40:41 2024
+			 Account Number Of Client is 231541274229
+		Tue Mar 12 16:40:41 2024
+			Wants to Open Account With 8563Rupees as Balance.
+		Tue Mar 12 16:40:41 2024
+			Applied for Debit Card.
+		Tue Mar 12 16:40:41 2024
+			Not Applied For Loan.
+		Tue Mar 12 16:40:41 2024
+			Name Displayed.
+		Tue Mar 12 16:40:41 2024
+			PAN Displayed
