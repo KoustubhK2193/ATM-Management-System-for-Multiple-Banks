@@ -40,7 +40,7 @@ To set up the ATM Management System on your local machine, follow these steps:
 4.**Run the Program**:
    ```bash
   ./atm_system
-
+   ```
 ## Usage
 
 To use the ATM Management System, follow these steps:
