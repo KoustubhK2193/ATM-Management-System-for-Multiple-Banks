@@ -30,10 +30,10 @@ To set up the ATM Management System on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ATM-Management-System.git
+   git clone https://github.com/yourusername/ATM-Management-System.git](https://github.com/KoustubhK2193/ATM-Management-System-for-Multiple-Banks.git
 2. **Navigate to the project directory**:
    ```bash
-   cd ATM-Management-System
+   cd ATM-Management-System-for-Multiple-Banks
 3. **Compile the C++ files**:
    ```bash
    g++ main.cpp -o atm_system
