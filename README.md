@@ -36,7 +36,7 @@ To set up the ATM Management System on your local machine, follow these steps:
    cd ATM-Management-System
 3. **Compile the C++ files**:
    ```bash
-  g++ main.cpp -o atm_system
+   g++ main.cpp -o atm_system
 4.**Run the Program**:
    ```bash
   ./atm_system
