@@ -40,3 +40,40 @@ To set up the ATM Management System on your local machine, follow these steps:
 4.**Run the Program**:
    ```bash
   ./atm_system
+
+## Usage
+
+To use the ATM Management System, follow these steps:
+
+1. **Launch the Application**:
+   - Open your terminal or command prompt.
+   - Navigate to the project directory where the compiled executable (`atm_system`) is located.
+   - Run the application using the following command:
+     ```bash
+     ./atm_system
+     ```
+
+2. **Follow the On-Screen Prompts**:
+   - After launching the application, you will be presented with a menu of options.
+   - You can create a new bank account by selecting the corresponding option.
+
+3. **Create a Bank Account**:
+   - Enter the required information (e.g., name, initial deposit).
+   - Confirm the creation of your account.
+
+4. **Set Your ATM PIN**:
+   - Choose the option to set your ATM PIN.
+   - You will receive an OTP (One-Time Password) for verification.
+   - Enter the OTP and then input your desired PIN to complete the setup.
+
+5. **Perform Transactions**:
+   - You can choose from the following operations:
+     - **Deposit**: Input the amount you wish to deposit into your account.
+     - **Withdrawal**: Specify the amount you want to withdraw.
+     - **Check Balance**: View your current account balance.
+
+6. **Access Transaction History**:
+   - Select the option to view your transaction history.
+   - The application will display a list of past transactions, allowing you to review your activity.
+
+By following these steps, you can effectively manage your banking needs through the ATM Management System.
